@@ -1,7 +1,7 @@
 # Minecraft-Package-Share
 
 # 推荐购买正版
-前往[官网](https://minecraft.net)购买
+**前往[官网](https://minecraft.net)购买**
 
 # 自行下载 HMCL 启动器
 前往 https://github.com/huanghongxun/HMCL 下载
